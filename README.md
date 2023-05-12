@@ -29,4 +29,4 @@ Using Tableau, we were ableto create the following vizualizations to share with 
 
 ## Summary:
 
-Looking at these vizualizations, we can see that the Citibike rideshare is very popular in Mahattan. It is especially poopular among younger riders, and the peak checkout times suggest that the bikes are used by professionals to commute to work. Furthermore, we can see that most reiders are subscribers, meaning that they will check out bikes more than once and bring in more revenue. We recommend that Des Moines consider investing in a rideshare program since they have similar demographics as Manhattan. 
+Looking at these vizualizations, we can see that the Citibike rideshare is very popular in Manhattan. It is especially poopular among younger riders, and the peak checkout times suggest that the bikes are used by professionals to commute to work. Furthermore, we can see that most riders are subscribers, meaning that they will check out bikes more than once and bring in more revenue. We recommend that Des Moines consider investing in a rideshare program since they have similar demographics as Manhattan. 
